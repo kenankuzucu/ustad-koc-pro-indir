@@ -1,0 +1,4 @@
+ÜSTAD KPSS-B KOÇ PRO — kurulum dosyaları
+© 2026 Kenan Kuzucu · Tüm hakları saklıdır (5846 sayılı FSEK).
+Bu depo YALNIZCA imzalı APK dosyalarını barındırır; kaynak kod özel (private) depodadır.
+Kaynak kod tersine mühendislikle çıkarılıp dağıtılamaz, kopyalanıp satılamaz.
